@@ -1,0 +1,6 @@
+ExtraValidations
+================
+
+This plugin adds some common validations to ActiveRecord.
+
+Copyright (c) 2009 Andrew White, released under the MIT license
